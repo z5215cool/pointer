@@ -1,1 +1,1 @@
-# https://z5215cool.github.io/pointer
+https://z5215cool.github.io/pointer
